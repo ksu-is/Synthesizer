@@ -4,9 +4,11 @@
 Can switch between sin wave and a sawtooth wave. Want to look for more formulas for different wave tables. 
 Was able to generate .wav files and tune to different notes in the scale of C Major.
 
+7/25 Watched more YouTube tutorials and downloaded a repository that has functions that can get a wave and create a piano octave out of it. Borrowed some chords from a song called Borderline by Tame Impala and messed with the duration to make it sound nice. Well, it doesn't sound anything like the original song because of the rhythm and tone of the piano, but it's pretty cool nonetheless. So, I have meet my bare minimum requirements, but I would like to add a proper gui and map the notes to my keyboard. And maybe write a formula that makes the duration equal to how long I press a key. 
+
 --Roadmap Tasks--
 Bare Minimum
--Be able to generate a song (something simple such as Mary Had a Little Lamb) via hard coding (currently only generating one signal)
+-[DONE]Be able to generate a song (something simple such as Mary Had a Little Lamb) via hard coding (currently only generating one signal)
 -Be able to change the wavetable to a few different options via hard coding
 
 Additional Tasks
